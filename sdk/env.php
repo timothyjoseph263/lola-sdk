@@ -14,4 +14,4 @@
  define('DB_HOST', 'localhost');
 
  // THE NAME OF THE TABLE YOU WANT YOUR SYSTEM TO SEARCH FROM 
- define('LIST_TABLE','junk');
+ define('LIST_TABLE','blog');
